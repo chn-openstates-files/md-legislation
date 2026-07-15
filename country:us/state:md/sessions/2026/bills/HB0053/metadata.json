@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-md-2026-hb53"
+    }
+  ],
   "actions": [
     {
       "description": "Pre-filed",
@@ -33,6 +37,124 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-13T12:19:27Z"
+      }
+    },
+    {
+      "description": "Hearing 2/05 at 2:00 p.m.",
+      "date": "2026-01-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:16Z"
+      }
+    },
+    {
+      "description": "Hearing canceled",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:16Z"
+      }
+    },
+    {
+      "description": "Hearing 2/05 at 1:00 p.m.",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:16Z"
+      }
+    },
+    {
+      "description": "Favorable Report by Judiciary",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:16Z"
+      }
+    },
+    {
+      "description": "Favorable Adopted",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:16Z"
+      }
+    },
+    {
+      "description": "Motion Special Order until 2/25  (Delegate Hornberger)  Adopted",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:16Z"
+      }
+    },
+    {
+      "description": "Floor Amendment {",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:16Z"
+      }
+    },
+    {
+      "description": "Second Reading Passed",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:16Z"
+      }
+    },
+    {
+      "description": "Third Reading Passed",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:16Z"
+      }
+    },
+    {
+      "description": "Referred Judicial Proceedings",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:16Z"
+      }
+    },
+    {
+      "description": "Hearing 3/25 at 1:00 p.m.",
+      "date": "2026-03-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:16Z"
       }
     }
   ],
@@ -98,9 +220,32 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Third - Criminal Law \u2013 Nondomesticated Animal Prohibitions \u2013 Alterations",
+      "links": [
+        {
+          "url": "http://mgaleg.maryland.gov/2026RS/bills/hb/hb0053t.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Fiscal and Policy Note",
+      "links": [
+        {
+          "url": "http://mgaleg.maryland.gov/2026RS/fnotes/bil_0003/hb0053.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -108,7 +253,9 @@
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "date_effective": "October 1, 2026"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:md/government",
     "name": "Maryland",
@@ -116,6 +263,6 @@
     "division_id": "ocd-division/country:us/state:md"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-13T12:19:27Z"
+    "logs_latest_update": "2026-07-15T13:01:16Z"
   }
 }

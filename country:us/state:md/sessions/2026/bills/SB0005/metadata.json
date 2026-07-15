@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-md-2026-sb5"
+    }
+  ],
   "actions": [
     {
       "description": "Pre-filed",
@@ -33,6 +37,140 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-13T12:19:27Z"
+      }
+    },
+    {
+      "description": "Hearing 1/21 at 11:00 a.m.",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:16Z"
+      }
+    },
+    {
+      "description": "Favorable Report by Education, Energy, and the Environment",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:16Z"
+      }
+    },
+    {
+      "description": "Favorable Adopted",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:16Z"
+      }
+    },
+    {
+      "description": "Second Reading Passed",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:16Z"
+      }
+    },
+    {
+      "description": "Third Reading Passed",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:16Z"
+      }
+    },
+    {
+      "description": "Referred Government, Labor, and Elections",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:16Z"
+      }
+    },
+    {
+      "description": "Favorable with Amendments Report by Government, Labor, and Elections",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:16Z"
+      }
+    },
+    {
+      "description": "Favorable with Amendments {",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:16Z"
+      }
+    },
+    {
+      "description": "Motion Special Order until 03/26  (Delegate Buckel)  Adopted",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:16Z"
+      }
+    },
+    {
+      "description": "Floor Amendment {",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:16Z"
+      }
+    },
+    {
+      "description": "Second Reading Passed with Amendments",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:16Z"
+      }
+    },
+    {
+      "description": "Third Reading Passed",
+      "date": "2026-03-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:16Z"
       }
     }
   ],
@@ -69,9 +207,32 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Third - General Assembly - Special Election to Fill a Vacancy in Office",
+      "links": [
+        {
+          "url": "http://mgaleg.maryland.gov/2026RS/bills/sb/sb0005t.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Fiscal and Policy Note",
+      "links": [
+        {
+          "url": "http://mgaleg.maryland.gov/2026RS/fnotes/bil_0005/sb0005.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -87,6 +248,6 @@
     "division_id": "ocd-division/country:us/state:md"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-13T12:19:27Z"
+    "logs_latest_update": "2026-07-15T13:01:16Z"
   }
 }

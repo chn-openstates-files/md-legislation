@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-md-2026-sb30"
+    }
+  ],
   "actions": [
     {
       "description": "Pre-filed",
@@ -34,15 +38,171 @@
       "_processing": {
         "log_file_created": "2026-01-13T12:19:26Z"
       }
+    },
+    {
+      "description": "Hearing 1/21 at 10:00 a.m.",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:16Z"
+      }
+    },
+    {
+      "description": "Hearing canceled",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:16Z"
+      }
+    },
+    {
+      "description": "Hearing 1/21 at 10:00 a.m.",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:16Z"
+      }
+    },
+    {
+      "description": "Favorable with Amendments Report by Budget and Taxation",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:16Z"
+      }
+    },
+    {
+      "description": "Favorable with Amendments {",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:16Z"
+      }
+    },
+    {
+      "description": "Second Reading Passed with Amendments",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:16Z"
+      }
+    },
+    {
+      "description": "Third Reading Passed",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:16Z"
+      }
+    },
+    {
+      "description": "Referred Ways and Means",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:16Z"
+      }
+    },
+    {
+      "description": "Hearing 3/24 at 1:00 p.m.",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:16Z"
+      }
+    },
+    {
+      "description": "Favorable Report by Ways and Means",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:16Z"
+      }
+    },
+    {
+      "description": "Favorable Adopted Second Reading Passed",
+      "date": "2026-04-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:16Z"
+      }
+    },
+    {
+      "description": "Third Reading Passed",
+      "date": "2026-04-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:16Z"
+      }
+    },
+    {
+      "description": "Returned Passed",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:16Z"
+      }
+    },
+    {
+      "description": "Approved by the Governor - Chapter 801",
+      "date": "2026-05-26",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:16Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "West",
+      "name": "Baltimore County Senators",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"West\"}",
+      "person_id": "~{\"name\": \"Baltimore County Senators\"}",
       "organization_id": null
     }
   ],
@@ -64,9 +224,43 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Third - Baltimore County - Property Tax Credit - Fraternal Order of Police Lodge 34",
+      "links": [
+        {
+          "url": "http://mgaleg.maryland.gov/2026RS/bills/sb/sb0030t.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Chapter - Baltimore County - Property Tax Credit - Fraternal Order of Police Lodge 34",
+      "links": [
+        {
+          "url": "http://mgaleg.maryland.gov/2026RS/Chapters_noln/CH_801_sb0030t.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Fiscal and Policy Note",
+      "links": [
+        {
+          "url": "http://mgaleg.maryland.gov/2026RS/fnotes/bil_0000/sb0030.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -74,7 +268,9 @@
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "date_effective": "June 1, 2026"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:md/government",
     "name": "Maryland",
@@ -82,6 +278,6 @@
     "division_id": "ocd-division/country:us/state:md"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-13T12:19:26Z"
+    "logs_latest_update": "2026-07-15T13:01:16Z"
   }
 }

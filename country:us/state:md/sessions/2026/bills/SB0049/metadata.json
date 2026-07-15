@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-md-2026-sb49"
+    }
+  ],
   "actions": [
     {
       "description": "Pre-filed",
@@ -33,6 +37,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-13T12:19:27Z"
+      }
+    },
+    {
+      "description": "Hearing 1/27 at 1:00 p.m.",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:13Z"
       }
     }
   ],
@@ -69,9 +83,32 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Racial Equity Impact Note",
+      "links": [
+        {
+          "url": "http://mgaleg.maryland.gov/Pubs/BudgetFiscal/2026RS-SB0049-REIN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Fiscal and Policy Note",
+      "links": [
+        {
+          "url": "http://mgaleg.maryland.gov/2026RS/fnotes/bil_0009/sb0049.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -79,7 +116,9 @@
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "date_effective": "October 1, 2026"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:md/government",
     "name": "Maryland",
@@ -87,6 +126,6 @@
     "division_id": "ocd-division/country:us/state:md"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-13T12:19:27Z"
+    "logs_latest_update": "2026-07-15T13:01:13Z"
   }
 }

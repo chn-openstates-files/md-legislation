@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB0165",
-  "title": "Environment - On-Site Wastewater Systems - Requirements for Inspection and Pumping Services and Implementation Dates",
+  "title": "Environment - On-Site Wastewater Systems - Implementation Dates",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-md-2026-sb165"
+    }
+  ],
   "actions": [
     {
       "description": "Pre-filed",
@@ -33,6 +37,200 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-13T12:19:27Z"
+      }
+    },
+    {
+      "description": "Hearing 2/03 at 1:00 p.m.",
+      "date": "2026-01-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:13Z"
+      }
+    },
+    {
+      "description": "Favorable with Amendments Report by Education, Energy, and the Environment",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:13Z"
+      }
+    },
+    {
+      "description": "Favorable with Amendments {",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:13Z"
+      }
+    },
+    {
+      "description": "Motion Special Order until Next Session  (Senator Ready)  Adopted",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:13Z"
+      }
+    },
+    {
+      "description": "Favorable with Amendments {",
+      "date": "2026-03-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:13Z"
+      }
+    },
+    {
+      "description": "Floor Amendment {",
+      "date": "2026-03-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:13Z"
+      }
+    },
+    {
+      "description": "Floor Amendment {",
+      "date": "2026-03-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:13Z"
+      }
+    },
+    {
+      "description": "Motion Special Order until Later Today  (Senator Feldman)  Adopted",
+      "date": "2026-03-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:13Z"
+      }
+    },
+    {
+      "description": "Floor Amendment {",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:13Z"
+      }
+    },
+    {
+      "description": "Motion Special Order until Next Session  (Senator Hershey)  Adopted",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:13Z"
+      }
+    },
+    {
+      "description": "Floor Amendment {",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:13Z"
+      }
+    },
+    {
+      "description": "Floor Amendment {",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:13Z"
+      }
+    },
+    {
+      "description": "Motion Recommit to Committee  (Senator Feldman)  Adopted",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:13Z"
+      }
+    },
+    {
+      "description": "Favorable with Amendments Report by Education, Energy, and the Environment",
+      "date": "2026-04-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:13Z"
+      }
+    },
+    {
+      "description": "Favorable with Amendments {",
+      "date": "2026-04-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:13Z"
+      }
+    },
+    {
+      "description": "Second Reading Passed with Amendments",
+      "date": "2026-04-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:13Z"
+      }
+    },
+    {
+      "description": "Third Reading Passed",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:13Z"
+      }
+    },
+    {
+      "description": "Referred Rules and Executive Nominations",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:01:13Z"
       }
     }
   ],
@@ -64,9 +262,32 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Third - Environment - On-Site Wastewater Systems - Implementation Dates",
+      "links": [
+        {
+          "url": "http://mgaleg.maryland.gov/2026RS/bills/sb/sb0165t.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Fiscal and Policy Note",
+      "links": [
+        {
+          "url": "http://mgaleg.maryland.gov/2026RS/fnotes/bil_0005/sb0165.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -74,7 +295,9 @@
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "date_effective": "June 1, 2026"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:md/government",
     "name": "Maryland",
@@ -82,6 +305,6 @@
     "division_id": "ocd-division/country:us/state:md"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-13T12:19:27Z"
+    "logs_latest_update": "2026-07-15T13:01:13Z"
   }
 }
